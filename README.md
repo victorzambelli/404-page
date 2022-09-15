@@ -1,5 +1,5 @@
 # 404-page
-Projeto desenvolvido com HTML, CSS.
+Projeto desenvolvido com HTML e CSS.
 
 ## 🚀 Tecnologias
 
