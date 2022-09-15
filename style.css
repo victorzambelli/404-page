@@ -1,0 +1,71 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #201F1F;
+    color: #FFFFFF;
+    font-family: 'Inter';
+}
+
+/* 404 ERROR */
+.info-text {
+    margin-top: 224px;
+    text-align: center;
+}
+
+.info-text h1 {
+    color: #0765E3;
+    font-size: 260px;
+    font-weight: 400;
+    line-height: 315px;
+}
+
+.info-text h2 {
+    font-size: 42px;
+    line-height: 51px;
+    font-weight: 400;
+}
+
+.info-text p {
+    color: #adadad;
+    font-weight: 400;
+    line-height: 32px;
+    font-size: 24px;
+    margin-top: 41px;
+}
+
+/* Buttons */
+.buttons {
+    margin-top: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons button {
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 31px;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+#gobackbtn {
+    width: 182px;
+    height: 62px;
+    color: #FFFFFF;
+    background-color: #0765E3;
+}
+
+#homebtn {
+    width: 212px;
+    height: 62px;
+    color: #000000;
+    border: 1px solid #959595;
+    margin-left: 16px;
+}
