@@ -1,16 +1,15 @@
 # 404-page
-Projeto desenvolvido com base em uma página de 404.
+Project developed is 404 error page.
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 - HTML
 - CSS
 
-## 📚 Bibliotecas:
+## 📚 Libraries
 - [Google Fonts](https://fonts.google.com/)
 
-## 💻 Projeto
+## 💻 Project
 ![preview](./preview.png/)
-[Clique aqui para acessar](https://404-page-hazel.vercel.app/)
-> **Objetivo:** Criar uma página de erro 404.
+[Click here to access project](https://404-page-hazel.vercel.app/)
+> **Objective:** Create 404 error page.
